@@ -1,5 +1,5 @@
 # Photo-Sorter
-## TLD 
+## TLDR 
 Will sort your Photos for u and place them neatly in directories first by year and inside them by location.
 
 ## For any one who wants to know a little more
